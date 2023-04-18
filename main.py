@@ -67,7 +67,7 @@ class ken(BoxLayout):
 
 class runmyapk(MDApp):
     def build(self):
-        toast("made by @ wambugu kinyua")
+        toast("made by @ wambugu kinyua 🫡")
         return ken()
     
 runmyapk().run()
